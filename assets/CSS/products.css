@@ -1,0 +1,20 @@
+.div1,.div2,.div3{
+    position: relative;
+    margin-top: 16%;
+    margin-bottom: 25%;
+}
+.card1{
+    position: absolute;
+    right: 8%;
+    top: -15%;
+    background-color: #f6e1c5;
+    width: 35%;
+}
+.card2{
+    position: absolute;
+    left: 4%;
+    bottom: -18%;
+    background-color: #f6e1c5;
+    width: 60%;
+    padding: 3%;
+}
